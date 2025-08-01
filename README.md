@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A passionate full-stack developer & tech enthusiast from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F7971E&center=true&vCenter=true&width=435&lines=Full-stack+Web+Developer;Frontend+%F0%9F%96%A5%EF%B8%8F+Backend+%F0%9F%9A%80;Open+Source+Contributor;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F7971E&center=true&vCenter=true&width=435&lines=Full-stack+Web+Developer;Frontend+%F0%9F%96%A5%EF%B8%8F+Backend+%F0%9F%9A%80;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -25,26 +25,6 @@
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node-dot-js&logoColor=white&style=for-the-badge)
 
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XtreamSahil&show_icons=true&theme=tokyonight" alt="Sahil's GitHub stats" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=XtreamSahil&theme=gruvbox&no-bg=true&margin-w=15" />
-</p>
-
----
-
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XtreamSahil&bg_color=1a1b27&color=ffffff&line=00bcd4&point=ffffff&area=true&hide_border=true"/>
-</p>
 
 ---
 
